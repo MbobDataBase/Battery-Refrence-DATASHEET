@@ -1,0 +1,16 @@
+[
+  {
+    "code": "MF40Z",
+    "name": "Battery A",
+    "type": "Battery",
+    "voltage": 12,
+    "compatibles": ["S42B19R", "NS40ZMF", "328", "40B19R"]
+  },
+  {
+    "code": "S42B19R",
+    "name": "Battery B",
+    "type": "Battery",
+    "voltage": 12,
+    "compatibles": ["MF40Z"]
+  }
+]
