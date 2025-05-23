@@ -4,7 +4,7 @@
     "name": "Battery A",
     "type": "Battery",
     "voltage": 12,
-    "compatibles": ["S42B19R", "NS40ZMF", "328", "40B19R"]
+    "compatibles": ["S42B19R", "NS40ZMF", "328", "40B19R", "123", "567"]
   },
   {
     "code": "S42B19R",
