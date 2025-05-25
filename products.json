@@ -12,5 +12,12 @@
     "type": "Battery",
     "voltage": 12,
     "compatibles": ["MF40Z"]
+  },
+  {
+    "code": "RowTest1",
+    "name": "test",
+    "type": "Battery",
+    "voltage": 120,
+    "compatibles": ["MF40Z", "test", "test2", "test3"]
   }
 ]
