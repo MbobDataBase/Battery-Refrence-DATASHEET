@@ -12,5 +12,5 @@
     "type": "Battery",
     "voltage": 12,
     "compatibles": ["MF40Z"]
-  },
+  }
 ]
