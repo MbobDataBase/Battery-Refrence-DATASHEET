@@ -20,5 +20,4 @@
     "voltage": 12,
     "compatibles": ["22NF330D", "22NF-330D", "340", "440", "22NF330D", "41", "MF41", "2133", "1132"]
   }
-  // Add more battery entries below
 ]
