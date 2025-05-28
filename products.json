@@ -4,30 +4,21 @@
     "name": "MF40Z",
     "type": "Battery",
     "voltage": 12,
-    "compatibles": [
-      "S42B19R", "AD42B19R", "NS40ZMF", "328", "428", "40B19R",
-      "MF40B20", "SMFNS40ZX", "2383", "1123"
-    ]
+    "compatibles": ["S42B19R", "AD42B19R", "NS40ZMF", "328", "428", "40B19R", "MF40B20", "SMFNS40ZX", "2383", "1123"]
   },
   {
     "code": "MF40ZL",
     "name": "MF40ZL",
     "type": "Battery",
     "voltage": 12,
-    "compatibles": [
-      "S42B19L", "AD42B19L", "NS40ZLMF", "327", "427", "40B19L",
-      "MF40B20L", "SMFNS40ZLX", "2384", "1124"
-    ]
+    "compatibles": ["S42B19L", "AD42B19L", "NS40ZLMF", "327", "427", "40B19L", "MF40B20L", "SMFNS40ZLX", "2384", "1124"]
   },
   {
     "code": "MF41",
     "name": "MF41",
     "type": "Battery",
     "voltage": 12,
-    "compatibles": [
-      "22NF330D", "22NF-330D", "340", "440", "22NF330D",
-      "41", "MF41", "2133", "1132"
-    ]
+    "compatibles": ["22NF330D", "22NF-330D", "340", "440", "22NF330D", "41", "MF41", "2133", "1132"]
   }
   // Add more battery entries below
 ]
