@@ -1,44 +1,33 @@
 [
   {
-    "code": "MF40123",
-    "name": "Battery A",
-    "type": "Battery",
-    "voltage": 12,
-    "compatibles": ["S42B19R"]
-  },
-  {
-    "code": "S42B19R",
-    "name": "Battery B",
-    "type": "Battery",
-    "voltage": 12,
-    "compatibles": ["MF40Z"]
-  },
-
-  {
     "code": "MF40Z",
     "name": "MF40Z",
-    "compatibles": ["S42B19R", "AD42B19R", "NS40ZMF", "328", "428", "40B19R", "MF40B20", "SMFNS40ZX", "2383", "1123"]
+    "type": "Battery",
+    "voltage": 12,
+    "compatibles": [
+      "S42B19R", "AD42B19R", "NS40ZMF", "328", "428", "40B19R",
+      "MF40B20", "SMFNS40ZX", "2383", "1123"
+    ]
   },
   {
     "code": "MF40ZL",
     "name": "MF40ZL",
-    "compatibles": ["S42B19L", "AD42B19L", "NS40ZLMF", "327", "427", "40B19L", "MF40B20L", "SMFNS40ZLX", "2384", "1124"]
-  },
-  {
-    "code": "MF40ZA",
-    "name": "MF40ZA",
-    "compatibles": ["S42B19RS", "NS40-330D", "326", "426", "42B19RS", "MF40B20ZA", "MF40B20ZA", "2381", "1121"]
-  },
-  {
-    "code": "MF40ZAL",
-    "name": "MF40ZAL",
-    "compatibles": ["S42B19LS", "AD42B19LS", "NS40ZLSMF", "325", "425", "42B19LS", "MF40B20ZAL", "SMFNS40ZALX", "2382", "1122"]
+    "type": "Battery",
+    "voltage": 12,
+    "compatibles": [
+      "S42B19L", "AD42B19L", "NS40ZLMF", "327", "427", "40B19L",
+      "MF40B20L", "SMFNS40ZLX", "2384", "1124"
+    ]
   },
   {
     "code": "MF41",
     "name": "MF41",
-    "compatibles": ["22NF330D", "22NF-330D", "340", "440", "22NF330D", "41", "MF41", "2133", "1132"]
+    "type": "Battery",
+    "voltage": 12,
+    "compatibles": [
+      "22NF330D", "22NF-330D", "340", "440", "22NF330D",
+      "41", "MF41", "2133", "1132"
+    ]
   }
-
-  }
+  // Add more battery entries below
 ]
