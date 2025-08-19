@@ -5,5 +5,12 @@
     "type": "Battery",
     "voltage": 12,
     "compatibles": ["CompatiableBatteries"]
+  },
+  {
+    "code": "HGUYJHGk",
+    "name": "CompatiableBatteries",
+    "type": "Battery",
+    "voltage": 12,
+    "compatibles": ["CompatiableBatteries", "Example1"]
   }
 ]
